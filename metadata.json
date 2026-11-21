@@ -1,0 +1,8 @@
+{
+  "name": "PlotDeck",
+  "description": "An interactive AI dilemma and fate card game where every decision shifts four fragile world meters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
